@@ -1,6 +1,6 @@
 package main;
 
-public class Student {
+public class Student{
     private int id;
     private String name;
     private byte age;
@@ -62,6 +62,8 @@ public class Student {
     public String toString() {
         return String.format("%-10d %-10s %-10d %-10s %-10.1f\n", id, name, age, address, gpa);
     }
+
+
 }
     
     

@@ -1,0 +1,16 @@
+
+|	java:S107H"AConstructor has 8 parameters, which is greater than 7 authorized.(¾ÛÂÊJ$a2245aac-ba34-45e7-9acf-66605089f461
+f	java:S106/"+Replace this use of System.out by a logger.(²¡‚šJ$9dd38cdc-b273-4f26-899e-01fe720e0f13
+f	java:S1061"+Replace this use of System.out by a logger.(ĞµÈÿJ$e3023336-b635-4da6-a480-a00f90e627bf
+f	java:S1063"+Replace this use of System.out by a logger.(´òÚJ$e4677f6a-d8f3-433b-abae-acba9651955f
+k	java:S1065"+Replace this use of System.out by a logger.(áì„çüÿÿÿÿJ$8ff734e7-8f88-45f1-af0f-95404e9dd2d6
+f	java:S1067"+Replace this use of System.out by a logger.(ÏãµúJ$9c5d4594-42fc-4d53-8ace-7a0210c90ec8
+k	java:S1069"+Replace this use of System.out by a logger.(íéìüşÿÿÿÿJ$4bf7dc68-90b1-4745-9e6b-8552e77a6586
+e	java:S106;"+Replace this use of System.out by a logger.(Ğø°J$c4c9fb37-0eab-473c-8a77-e54927ee933e
+k	java:S106="+Replace this use of System.out by a logger.(ÎïÇøÿÿÿÿJ$278ebb03-47d3-4429-8060-f71a963e0716
+
+java:S3457B"Q%n should be used in place of \n to produce the platform-specific line separator.(‚Òù£J$b8a4b675-f8a3-40d9-8638-0db1f779f864
+f	java:S106B"+Replace this use of System.out by a logger.(‚Òù£J$591275e3-5dc5-42c9-9232-d5cc4b1d22d3
+
+java:S3457D"Q%n should be used in place of \n to produce the platform-specific line separator.(ÕÆ£¦J$0f0c18f4-553a-41f0-a0cb-76b709d8cceb
+f	java:S106D"+Replace this use of System.out by a logger.(ÕÆ£¦J$160a39ee-2559-4c06-99fd-0d4c80aefb35

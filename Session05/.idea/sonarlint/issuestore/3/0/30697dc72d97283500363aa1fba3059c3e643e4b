@@ -1,0 +1,10 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿJ$bd829a19-b980-4a7c-8b61-78ce3cf65a94
+ƒ
+java:S2094"BRemove this empty class, write its code or make it an "interface".(óÎ °ùÿÿÿÿJ$108afe1c-5425-4ae4-a0f2-04a6bdfaca9e
+b
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙJ$97cd7642-348d-4257-b3dd-6b0c1f0d68f4
+y
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿJ$fb161167-eff3-4768-a25d-650346514f13
+p
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”J$d6c1201f-1aad-4f41-81f9-846384276e46

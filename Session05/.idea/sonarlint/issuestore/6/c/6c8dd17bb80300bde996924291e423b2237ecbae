@@ -1,0 +1,17 @@
+
+v
+java:S1488k"[Immediately return this expression instead of assigning it to the temporary variable "sum".(šŸ–•üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¢Öú¤ûÿÿÿÿ
+?	java:S106p"+Replace this use of System.out by a logger.(²™³
+E	java:S106t"+Replace this use of System.out by a logger.(ÌüŒƒùÿÿÿÿ
+@	java:S106v"+Replace this use of System.out by a logger.(×™Ï•
+@	java:S106x"+Replace this use of System.out by a logger.(ŸİƒÒ
+?	java:S106z"+Replace this use of System.out by a logger.(¡•»o
+E	java:S106|"+Replace this use of System.out by a logger.(Ë’¯¸ûÿÿÿÿ
+@	java:S106~"+Replace this use of System.out by a logger.(Øé¶á
+h
+java:S3457ƒ"Q%n should be used in place of \n to produce the platform-specific line separator.(ÆÉ½ß
+A	java:S106ƒ"+Replace this use of System.out by a logger.(ÆÉ½ß
+m
+java:S3457„"Q%n should be used in place of \n to produce the platform-specific line separator.(şºÔ´şÿÿÿÿ
+F	java:S106„"+Replace this use of System.out by a logger.(şºÔ´şÿÿÿÿ

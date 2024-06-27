@@ -1,0 +1,12 @@
+
+k	java:S106"+Replace this use of System.out by a logger.(ĞÓ¯ûÿÿÿÿJ$6ca4a97f-8a1d-4a77-ac51-b00609598767
+š
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿJ$f5521b23-3c27-4415-af98-d04a289c718b
+k	java:S106	"+Replace this use of System.out by a logger.(³«Ë½üÿÿÿÿJ$24e7686c-2d0c-4d90-9260-465c47b33acc
+f	java:S106"+Replace this use of System.out by a logger.(ãÉ‰ªJ$dfe88578-14c8-4cee-bcc5-b2b24708acad
+q
+java:S1854"5Remove this useless assignment to local variable "u".(¿üûJ$8a9fce97-80d8-49b8-9ec2-0b7458299a5c
+o
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(¿üûJ$d1bf6234-9d81-4ddb-9f4a-7fe26df40ca3
+b
+java:S1481"&Remove this unused "u" local variable.(¿üûJ$40381cc6-d363-4034-824f-c56e62f45ea9
